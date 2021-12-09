@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://image.freepik.com/free-photo/golden-gate-bridge-body-water-near-rock-formations-during-sunset-san-francisco-california_181624-3228.jpg" height=400px >
 </p>
+
 *For some plot visualizations, I recommend you to go to* [this project's Colab notebook](https://colab.research.google.com/drive/1Upv_XLRQfO92UFFQHQVzbaw1ZMyRjEre?usp=sharing)
+
 # San Francisco's Airbnb Data Analysis
 This is a personal data analysis project, in which was used Airbnb's data for the city of San Francisco, CA. Contributions and comments are welcome!
 [Link para o projeto completo](COLOCAR AQUI LINK DO MEDIUM)
