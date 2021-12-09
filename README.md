@@ -3,7 +3,7 @@
 [![author](https://img.shields.io/badge/author-lucca.miorelli-red.svg)](https://www.linkedin.com/in/lucca-miorelli/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 <p align="center">
-  <img src="https://image.freepik.com/free-photo/beautiful-shot-golden-gate-bridge-sunny-day_181624-3200.jpg" alt="golden_gate" height=400px >
+  <img src="https://image.freepik.com/free-photo/golden-gate-bridge-body-water-near-rock-formations-during-sunset-san-francisco-california_181624-3228.jpg" height=400px >
 </p>
 
 # San Francisco's Airbnb Data Analysis
