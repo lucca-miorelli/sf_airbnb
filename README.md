@@ -13,7 +13,7 @@ This is a personal data analysis project, in which was used Airbnb's data for th
 [Link para o projeto completo](COLOCAR AQUI LINK DO MEDIUM)
 
 **Links para me acharem:**
-* [Artigo meu desse projeto no Medium](LINK DO MEDIUM)
-* [Outro artigo meu desse projeto no Medium](LINK DO MEDIUM)
+* [**BLOG** Artigo meu desse projeto no Medium](LINK DO MEDIUM)
+* [**BLOG** 4 Passos para Começar uma Carreira em Dados](https://medium.com/@lucca.miorelli/4-passos-para-come%C3%A7ar-na-%C3%A1rea-de-dados-8a79c5da937b)
 * [LinkedIn](https://www.linkedin.com/in/lucca-miorelli/)
 * [Portfólio Completo](https://github.com/lucca-miorelli/ds_projects)
