@@ -12,7 +12,7 @@
 # San Francisco's Airbnb Data Analysis
 This is a personal data analysis project, in which was used Airbnb's data for the city of San Francisco, CA. Contributions and comments are welcome!
 
-**Links para me acharem:**
+**Links to find me:**
 * [**BLOG** Análise Exploratória de Dados do Airbnb: San Francisco](https://medium.com/@lucca.miorelli/an%C3%A1lise-explorat%C3%B3ria-de-dados-do-airbnb-san-francisco-7ef30fb906cf)
 * [**BLOG** 4 Passos para Começar uma Carreira em Dados](https://medium.com/@lucca.miorelli/4-passos-para-come%C3%A7ar-na-%C3%A1rea-de-dados-8a79c5da937b)
 * [LinkedIn](https://www.linkedin.com/in/lucca-miorelli/)
